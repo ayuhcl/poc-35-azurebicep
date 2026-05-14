@@ -3,6 +3,6 @@
     "value": "poc35storageacc"
   },
   "appServiceName": {
-    "value": "nodejs-app"
+    "value": "mywebapp"
   }
 }
